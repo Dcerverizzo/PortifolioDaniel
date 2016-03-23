@@ -79,7 +79,6 @@
             </div>
             <!-- /.container-fluid -->
         </nav>
-
         <!-- Header -->
         <header>
             <div class="container">
